@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<repository xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xsi:noNamespaceSchemaLocation="https://labbench.io/xsd/4.0.0/repository.xsd"
+            id="thermal.labbench.io">
+
+    <protocol 
+      id="offsetAnalgesia"
+      name="Offset Analgesia (Cutaneous Thermal Stimulation)"
+      labbench-version="4.3.0"
+      category="Cutaneous Thermal Stimulation;Offset Analgesia;Heat Pain Threshold;QSTLab"/>            
+</repository>
